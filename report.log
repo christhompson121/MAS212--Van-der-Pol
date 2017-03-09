@@ -1,0 +1,500 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.19)  19 NOV 2015 15:36
+entering extended mode
+**U:/MAS212/Assignment*2/a2_uni/report.tex
+("U:/MAS212/Assignment 2/a2_uni/report.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\amscls\amsart.cls
+Document Class: amsart 2009/07/02 v2.20.1
+\linespacing=\dimen102
+\normalparindent=\dimen103
+\normaltopskip=\skip41
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip42
+
+For additional information on amsmath, use the `?' option.
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count79
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count80
+\leftroot@=\count81
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count82
+\DOTSCASE@=\count83
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count84
+\c@MaxMatrixCols=\count85
+\dotsspace@=\muskip10
+\c@parentequation=\count86
+\dspbrk@lvl=\count87
+\tag@help=\toks15
+\row@=\count88
+\column@=\count89
+\maxfields@=\count90
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip43
+\multlinetaggap=\skip44
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 388.
+
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+\copyins=\insert233
+\abstractbox=\box28
+\listisep=\skip45
+\c@part=\count91
+\c@section=\count92
+\c@subsection=\count93
+\c@subsubsection=\count94
+\c@paragraph=\count95
+\c@subparagraph=\count96
+\c@figure=\count97
+\c@table=\count98
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\captionindent=\dimen113
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks24
+)
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\ltxmisc\parskip.sty
+Package: parskip 2001/04/09 non-zero parskip adjustments
+
+
+LaTeX Warning: Command \@starttoc  has changed.
+               Check if current package is valid.
+
+)
+(\\studata03\USRT88\MAS\Sma14cst\ManW7\AppData(Roaming)\MiKTeX\2.9\tex\latex\li
+stings\listings.sty (Q:\RRStuMiK.321\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+\lst@mode=\count99
+\lst@gtempboxa=\box29
+\lst@token=\toks26
+\lst@length=\count100
+\lst@currlwidth=\dimen114
+\lst@column=\count101
+\lst@pos=\count102
+\lst@lostspace=\dimen115
+\lst@width=\dimen116
+\lst@newlines=\count103
+\lst@lineno=\count104
+\lst@maxwidth=\dimen117
+
+(\\studata03\USRT88\MAS\Sma14cst\ManW7\AppData(Roaming)\MiKTeX\2.9\tex\latex\li
+stings\lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count105
+\lst@skipnumbers=\count106
+\lst@framebox=\box30
+)
+(\\studata03\USRT88\MAS\Sma14cst\ManW7\AppData(Roaming)\MiKTeX\2.9\tex\latex\li
+stings\listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(\\studata03\USRT88\MAS\Sma14cst\ManW7\AppData(Roaming)\MiKTeX\2.9\tex\latex\li
+stings\lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(\\studata03\USRT88\MAS\Sma14cst\ManW7\AppData(Roaming)\MiKTeX\2.9\tex\latex\li
+stings\lstlang2.sty
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+(\\studata03\USRT88\MAS\Sma14cst\ManW7\AppData(Roaming)\MiKTeX\2.9\tex\latex\li
+stings\lstlang3.sty
+File: lstlang3.sty 2015/06/04 1.6 listings language file
+) (Q:\RRStuMiK.321\MiKTeX\tex\latex\tools\verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks27
+\verbatim@line=\toks28
+\verbatim@in@stream=\read1
+)
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(Q:\RRStuMiK.321\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(Q:\RRStuMiK.321\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count107
+)
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\graphics\dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(\\studata03\USRT88\MAS\Sma14cst\ManW7\AppData(Roaming)\MiKTeX\2.9\tex\latex\es
+diff\esdiff.sty
+Package: esdiff 
+)
+(\\studata03\USRT88\MAS\Sma14cst\ManW7\AppData(Roaming)\MiKTeX\2.9\tex\latex\su
+bfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(\\studata03\USRT88\MAS\Sma14cst\ManW7\AppData(Roaming)\MiKTeX\2.9\tex\latex\ca
+ption\caption.sty
+Package: caption 2015/09/17 v3.3-111 Customizing captions (AR)
+
+(\\studata03\USRT88\MAS\Sma14cst\ManW7\AppData(Roaming)\MiKTeX\2.9\tex\latex\ca
+ption\caption3.sty
+Package: caption3 2015/09/20 v1.7-115 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen118
+\captionmargin@=\dimen119
+\captionwidth=\dimen120
+\caption@tempdima=\dimen121
+\caption@indent=\dimen122
+\caption@parindent=\dimen123
+\caption@hangindent=\dimen124
+)
+Package caption Info: AMS or SMF document class.
+\c@ContinuedFloat=\count108
+Package caption Info: listings package is loaded.
+)
+\c@KVtest=\count109
+\sf@farskip=\skip51
+\sf@captopadj=\dimen125
+\sf@capskip=\skip52
+\sf@nearskip=\skip53
+\c@subfigure=\count110
+\c@subfigure@save=\count111
+\c@lofdepth=\count112
+\c@subtable=\count113
+\c@subtable@save=\count114
+\c@lotdepth=\count115
+\sf@top=\skip54
+\sf@bottom=\skip55
+) (Q:\RRStuMiK.321\MiKTeX\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(Q:\RRStuMiK.321\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(Q:\RRStuMiK.321\MiKTeX\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(Q:\RRStuMiK.321\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count116
+\Gm@cntv=\count117
+\c@Gm@tempcnt=\count118
+\Gm@bindingoffset=\dimen126
+\Gm@wd@mp=\dimen127
+\Gm@odd@mp=\dimen128
+\Gm@even@mp=\dimen129
+\Gm@layoutwidth=\dimen130
+\Gm@layoutheight=\dimen131
+\Gm@layouthoffset=\dimen132
+\Gm@layoutvoffset=\dimen133
+\Gm@dimlist=\toks29
+
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\geometry\geometry.cfg))
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen134
+\Gin@req@width=\dimen135
+)
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\tools\enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks30
+)
+("U:\MAS212\Assignment 2\a2_uni\report.aux"
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub2' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub2' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Try loading font information for U+msa on input line 27.
+ (Q:\RRStuMiK.321\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 27.
+
+(Q:\RRStuMiK.321\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+\c@lstlisting=\count119
+
+(\\studata03\USRT88\MAS\Sma14cst\ManW7\AppData(Roaming)\MiKTeX\2.9\tex\context\
+base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count120
+\scratchdimen=\dimen136
+\scratchbox=\box31
+\nofMPsegments=\count121
+\nofMParguments=\count122
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen137
+\MPnumerator=\count124
+\makeMPintoPDFobject=\count125
+\everyMPtoPDFconversion=\toks32
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(54.2025pt, 736.64185pt, 54.2025pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=736.64185pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-40.06749pt
+* \headheight=8.0pt
+* \headsep=14.0pt
+* \topskip=10.0pt
+* \footskip=12.0pt
+* \marginparwidth=90.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=7.0pt plus 11.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 60--64
+
+ []
+
+<part_2a.jpg, id=13, 433.62pt x 289.08pt>
+File: part_2a.jpg Graphic file (type jpg)
+ <use part_2a.jpg>
+Package pdftex.def Info: part_2a.jpg used on input line 70.
+(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
+
+<part_2b.jpg, id=14, 433.62pt x 289.08pt>
+File: part_2b.jpg Graphic file (type jpg)
+ <use part_2b.jpg>
+Package pdftex.def Info: part_2b.jpg used on input line 84.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+
+<part_2c.jpg, id=15, 433.62pt x 289.08pt>
+File: part_2c.jpg Graphic file (type jpg)
+ <use part_2c.jpg>
+Package pdftex.def Info: part_2c.jpg used on input line 89.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2 <U:/MAS212/Assignment 2/a2_uni/part_2a.jpg>]
+<part_3a.jpg, id=23, 433.62pt x 289.08pt>
+File: part_3a.jpg Graphic file (type jpg)
+ <use part_3a.jpg>
+Package pdftex.def Info: part_3a.jpg used on input line 107.
+(pdftex.def)             Requested size: 195.1272pt x 130.0848pt.
+
+<part_3a_2.jpg, id=24, 433.62pt x 289.08pt>
+File: part_3a_2.jpg Graphic file (type jpg)
+ <use part_3a_2.jpg>
+Package pdftex.def Info: part_3a_2.jpg used on input line 112.
+(pdftex.def)             Requested size: 195.1272pt x 130.0848pt.
+ [3 <U:/MAS212/Assignment 2/a2_uni/part_2b.jpg> <U:/MAS212/Assignment 2/a2_uni/
+part_2c.jpg> <U:/MAS212/Assignment 2/a2_uni/part_3a.jpg> <U:/MAS212/Assignment 
+2/a2_uni/part_3a_2.jpg>] <part_3b.jpg, id=30, 433.62pt x 289.08pt>
+File: part_3b.jpg Graphic file (type jpg)
+ <use part_3b.jpg>
+Package pdftex.def Info: part_3b.jpg used on input line 124.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+
+<lorenz_attractor.jpg, id=31, 433.62pt x 289.08pt>
+File: lorenz_attractor.jpg Graphic file (type jpg)
+ <use lorenz_attractor.jpg>
+Package pdftex.def Info: lorenz_attractor.jpg used on input line 146.
+(pdftex.def)             Requested size: 190.79338pt x 127.19559pt.
+
+Underfull \hbox (badness 3701) in paragraph at lines 146--146
+[]\OT1/cmr/m/sc/9 (a) |\OT1/cmr/m/n/9 Phase por-trait for the
+ []
+
+<lor_time_displacements.jpg, id=32, 433.62pt x 289.08pt>
+File: lor_time_displacements.jpg Graphic file (type jpg)
+
+<use lor_time_displacements.jpg>
+Package pdftex.def Info: lor_time_displacements.jpg used on input line 151.
+(pdftex.def)             Requested size: 190.79338pt x 127.19559pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <U:/MAS212/Assignment 2/a2_uni/part_3b.jpg>] [5 <U:/MAS212/Assignment 2/a2_u
+ni/lorenz_attractor.jpg> <U:/MAS212/Assignment 2/a2_uni/lor_time_displacements.
+jpg>]
+Overfull \hbox (4.49945pt too wide) in paragraph at lines 177--178
+\OT1/cmr/m/n/10.95 Avail-able from: http://minitorn.tlu.ee/ jaagup/uk/-dyn-sys/
+ds2/limit/Lienard/Lienard.html [Ac-
+ []
+
+
+Overfull \hbox (2.40054pt too wide) in paragraph at lines 183--184
+\OT1/cmr/m/n/10.95 engineering/weblab/Introduction-to-Chaos/Examples-of-Chaotic
+-Systems/index.aspx [Ac-cessed
+ []
+
+[6] ("U:\MAS212\Assignment 2\a2_uni\report.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5877 strings out of 493921
+ 84938 string characters out of 3149214
+ 179897 words of memory out of 3000000
+ 8938 multiletter control sequences out of 15000+200000
+ 11734 words of font info for 45 fonts, out of 3000000 for 9000
+ 1002 hyphenation exceptions out of 8191
+ 44i,11n,47p,752b,404s stack positions out of 5000i,500n,10000p,200000b,50000s
+<Q:/RRStuMiK.321/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><Q:/RRStuMi
+K.321/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><Q:/RRStuMiK.321/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmex10.pfb><Q:/RRStuMiK.321/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmmi10.pfb><Q:/RRStuMiK.321/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmmi6.pfb><Q:/RRStuMiK.321/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pf
+b><Q:/RRStuMiK.321/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><Q:/RRStuMiK
+.321/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><Q:/RRStuMiK.321/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr6.pfb><Q:/RRStuMiK.321/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb><Q:/RRStuMiK.321/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr9.pfb><Q:/RRStuMiK.321/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><Q:/R
+RStuMiK.321/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Q:/RRStuMiK.321/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><Q:/RRStuMiK.321/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmti10.pfb><Q:/RRStuMiK.321/MiKTeX/fonts/type1/public/ams
+fonts/symbols/msbm10.pfb>
+Output written on report.pdf (6 pages, 472034 bytes).
+PDF statistics:
+ 93 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
